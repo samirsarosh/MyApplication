@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="cardview_layout_width">55dp</dimen>
+    <dimen name="item_layout_width">65dp</dimen>
+</resources>
